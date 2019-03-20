@@ -1,0 +1,2 @@
+C:\Users\Kane Garrett\Desktop\Unity_Project\Prototype-Development-master\Prototype Dev Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Kane Garrett\Desktop\Unity_Project\Prototype-Development-master\Prototype Dev Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
