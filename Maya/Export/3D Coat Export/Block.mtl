@@ -1,0 +1,33 @@
+newmtl initialShadingGroup
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Block_initialShadingGroup_diffuse.tga
+map_Ks Block_initialShadingGroup_glossiness.tga
+map_bump Block_initialShadingGroup_normal_map.tga
+newmtl lambert4SG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Block_lambert4SG_diffuse.tga
+map_Ks Block_lambert4SG_glossiness.tga
+map_bump Block_lambert4SG_normal_map.tga
+newmtl lambert3SG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Block_lambert3SG_diffuse.tga
+map_Ks Block_lambert3SG_glossiness.tga
+map_bump Block_lambert3SG_normal_map.tga
